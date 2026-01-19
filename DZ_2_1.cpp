@@ -7,4 +7,6 @@ int main()
     std::cout << "Enter your number: \n";
     std::cin >> num;
     std::cout << "You entered: \n" << num << std::endl;
+
+    return EXIT_SUCCESS;
 }
